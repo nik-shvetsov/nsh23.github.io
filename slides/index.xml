@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides on Nikita Shvetsov</title>
+    <link>https://nsh23.github.io/slides/</link>
+    <description>Recent content in Slides on Nikita Shvetsov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 May 2019 13:28:47 +0000</lastBuildDate>
+    
+	<atom:link href="https://nsh23.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Slides</title>
+      <link>https://nsh23.github.io/slides/slides/</link>
+      <pubDate>Mon, 20 May 2019 13:28:47 +0000</pubDate>
+      
+      <guid>https://nsh23.github.io/slides/slides/</guid>
+      <description> Presentation #1 Presentation #2  </description>
+    </item>
+    
+  </channel>
+</rss>

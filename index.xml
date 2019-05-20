@@ -2,13 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nikita Shvetsov</title>
-    <link>/</link>
+    <link>https://nsh23.github.io/</link>
     <description>Recent content on Nikita Shvetsov</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
+    <lastBuildDate>Mon, 20 May 2019 13:44:44 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nsh23.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Slides</title>
+      <link>https://nsh23.github.io/slides/</link>
+      <pubDate>Mon, 20 May 2019 13:44:44 +0000</pubDate>
+      
+      <guid>https://nsh23.github.io/slides/</guid>
+      <description> Slides #1 {link} Slides #2 {link} </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://nsh23.github.io/projects/</link>
+      <pubDate>Mon, 20 May 2019 13:43:50 +0000</pubDate>
+      
+      <guid>https://nsh23.github.io/projects/</guid>
+      <description>#1. Project #1 {link} #2. Project #2 {link}</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://nsh23.github.io/about/</link>
+      <pubDate>Mon, 20 May 2019 13:43:20 +0000</pubDate>
+      
+      <guid>https://nsh23.github.io/about/</guid>
+      <description> Some info about $(whoami) </description>
+    </item>
     
   </channel>
 </rss>

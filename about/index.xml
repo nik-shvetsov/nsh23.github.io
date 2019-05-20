@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Nikita Shvetsov</title>
+    <link>https://nsh23.github.io/about/</link>
+    <description>Recent content in Abouts on Nikita Shvetsov</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 20 May 2019 13:29:03 +0000</lastBuildDate>
+    
+	<atom:link href="https://nsh23.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://nsh23.github.io/about/about/</link>
+      <pubDate>Mon, 20 May 2019 13:29:03 +0000</pubDate>
+      
+      <guid>https://nsh23.github.io/about/about/</guid>
+      <description>$(whoami)</description>
+    </item>
+    
+  </channel>
+</rss>
